@@ -166,7 +166,6 @@ switch (opcao) {
     // ...
 }
 ```
-
 ---
 
 ## 🌐 Requisitos
@@ -176,13 +175,6 @@ switch (opcao) {
 - Nenhuma dependência externa
 
 ---
-
-## 📝 Licença
-
-Este projeto está licenciado sob a **MIT License** - veja detalhes em [LICENSE](LICENSE)
-
----
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Se encontrar algum bug ou tiver sugestões:
