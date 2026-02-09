@@ -7,7 +7,13 @@
 
 Um aplicativo web moderno e interativo para gerenciar suas tarefas do dia a dia utilizando **Arrays** e **Loops** em JavaScript.
 
-[🚀 Abrir no Navegador](#como-usar) • [📚 Documentação](#recursos) • [💡 Aprender](#tecnologias-utilizadas)
+<p align="center">
+  <ins>Clique no botão abaixo para visualizar a página do projeto:</ins>
+</p>
+
+<a href="https://bettograpiuna.github.io/aula5Prova/" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Página%20Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Página">
+</a>
 
 </div>
 
